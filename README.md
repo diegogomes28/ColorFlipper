@@ -2,7 +2,7 @@
 
 #### Just a ColorFlipper to improve Front-end basic skills
 
-
-*HTML
-*CSS
-*JavaScript
+## Techs
+* HTML
+* CSS
+* JavaScript
